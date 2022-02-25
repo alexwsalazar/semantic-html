@@ -12,9 +12,9 @@ Horiseon web page that allows you to quickly navigate throughout the page and ge
 
 ## links 
 
-https://github.com/alexwsalazar/semantic-html
+click [here](https://github.com/alexwsalazar/semantic-html) to go to my github repo
 
-https://alexwsalazar.github.io/semantic-html/
+click [here](https://alexwsalazar.github.io/semantic-html/) to visit the webpage
 
-<!-- this is a link to mu repo https://github.com/alexwsalazar/semantic-html -->
+<!-- this is a link to my repo https://github.com/alexwsalazar/semantic-html -->
 <!-- this is a link to my website https://alexwsalazar.github.io/semantic-html/ -->
